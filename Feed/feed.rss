@@ -1,15 +1,15 @@
 <rss version="2.0">
  <channel>
- <title>Example Feed</title>
- <description>Insert witty or insightful remark here</description>
- <link>http://example.org/</link>
- <pubDate>Sat, 12 Nov 2022 18:30:02 GMT</pubDate>
- <managingEditor>johndoe@example.com (John Doe)</managingEditor>
+ <title>Zona eSports</title>
+ <description>Aqui se alaba a Faker</description>
+ <link>https://jglgap.github.io/rss/Feed/feed.rss</link>
+ <pubDate>Fry, 24 Nov 2023 09:40:02 GMT</pubDate>
+ <managingEditor>a23ricardsr@iessanclemente.net (T1 maracuchuuu)</managingEditor>
  <item>
- <title>Test page</title>
- <link>http://example.org/test.html</link>
- <pubDate>Sat, 12 Nov 2022 18:30:02 GMT</pubDate>
- <description>Some text.</description>
+ <title>T1 renace</title>
+ <link>https://jglgap.github.io/rss/Feed/feed.rss</link>
+ <pubDate>Fry, 24 Nov 2023 09:40:02 GMT</pubDate>
+ <description>Fakeeer.</description>
  </item>
  </channel>
 </rss>
